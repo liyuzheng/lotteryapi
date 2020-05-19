@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="28px" viewBox="0 0 54 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>金蛋顶部飘屏@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="36.5569273%" x2="0%" y2="63.4430727%" id="linearGradient-1">
+            <stop stop-color="#FF9182" offset="0%"></stop>
+            <stop stop-color="#F0453C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4.8.5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-70.000000, -279.000000)" fill="url(#linearGradient-1)">
+            <rect id="矩形" x="70" y="279" width="54" height="28"></rect>
+        </g>
+    </g>
+</svg>
